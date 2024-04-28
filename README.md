@@ -9,7 +9,7 @@
 
 - 📫 For contacts: **magbualmarcel@gmail.com**
 
-- 🎮 Check out the Capstone Project we created using Unity [Kahidlaw](https://github.com/marcelee0713/UnityGameDevProject) 
+- 🎮 Check out the [Capstone Project](https://github.com/marcelee0713/UnityGameDevProject) we created using Unity!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
