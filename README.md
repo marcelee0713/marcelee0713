@@ -9,6 +9,8 @@
 
 - 📫 For contacts: **magbualmarcel@gmail.com**
 
+- 🎮 Check out the Capstone Project we created using Unity [Kahidlaw](https://github.com/marcelee0713/UnityGameDevProject) 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/marcel-magbual-48570a218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcel-magbual-48570a218" height="30" width="40" /></a>
