@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Marcel Paolo De Castro Magbual</h1>
 <h3 align="center">A senior student in PHINMA-University of Pangasinan</h3>
 
-- 🔭 I’m currently working on [Finia](https://github.com/marcelee0713/Finia-Server) and [InsureChain](https://github.com/marcelee0713/InsureChain)
+- 🔭 I’m currently working on [Finia](https://github.com/marcelee0713/Finia-Server)
 
 - 🌱 I’m currently learning **TypeScript**
 
@@ -11,7 +11,7 @@
 
 - 🎮 Check out the [Capstone Project](https://github.com/marcelee0713/UnityGameDevProject) we created using Unity!
 
-- 🌌 Check out our latest Web 3.0 App [InsureChain](https://github.com/marcelee0713/InsureChain)!
+- 🌌 Check out our latest Web 3.0 App [InsureChain](https://github.com/marcelee0713/InsureChain)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
