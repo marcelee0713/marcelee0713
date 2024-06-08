@@ -13,6 +13,9 @@
 
 - 🌌 Check out our latest Web 3.0 App [InsureChain](https://github.com/marcelee0713/InsureChain)
 
+- 🚀 Check out my latest Web App [Finia](https://finia.vercel.app/)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/marcel-magbual-48570a218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcel-magbual-48570a218" height="30" width="40" /></a>
