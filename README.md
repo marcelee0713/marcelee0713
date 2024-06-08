@@ -1,9 +1,7 @@
 <h1 align="center">Hey, I'm Marcel Paolo De Castro Magbual</h1>
 <h3 align="center">A senior student in PHINMA-University of Pangasinan</h3>
 
-- 🔭 I’m currently working on [Finia](https://github.com/marcelee0713/Finia-Server)
-
-- 🌱 I’m currently learning **TypeScript**
+- 🔭 I’m currently planning on another project
 
 - 👨‍💻 My portfolio [https://portfolio-marcelee0713.vercel.app/](https://portfolio-marcelee0713.vercel.app/)
 
