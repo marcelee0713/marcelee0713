@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Marcel Paolo De Castro Magbual</h1>
 <h3 align="center">A senior student in PHINMA-University of Pangasinan</h3>
 
-- 🔭 I’m currently planning on another project
+- 🔭 I’m currently working on [MahBlog](https://github.com/marcelee0713/MahBlog-Server)
 
 - 👨‍💻 My portfolio [https://portfolio-marcelee0713.vercel.app/](https://portfolio-marcelee0713.vercel.app/)
 
