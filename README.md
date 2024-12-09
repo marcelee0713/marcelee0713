@@ -4,7 +4,7 @@ Hey, I am <b align="center">Marcel Paolo De Castro Magbual</b>, a senior BSIT St
 
 I am currently working on <b>MahBlog</b> ([Server](https://github.com/marcelee0713/MahBlog-Server), [Web](https://github.com/marcelee0713/MahBlog-Web)), it is where me and you can write our learning journeys!
 
-But I am also in search for an internship, where I could expand my skills and gain experience on how the real world works!
+I am also learning Laravel now, so I guess I'll be using PHP from now on.
 
 ### Showcase
 
